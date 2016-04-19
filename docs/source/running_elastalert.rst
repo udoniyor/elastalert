@@ -20,8 +20,8 @@ First, clone the ElastAlert repository::
 
 Install the module::
 
-    $ python setup.py install
     $ pip install -r requirements.txt
+    $ python setup.py install
 
 Next, open up config.yaml.example. In it, you will find several configuration options. ElastAlert may be run without changing any of these settings.
 
